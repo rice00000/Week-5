@@ -1,0 +1,7 @@
+﻿whole_number = int("42")
+text_value = str(123)
+truth_value = bool(1)
+decimal_number = float("3.5")
+length_of_word = len("python")
+power_result = pow(2, 3)
+absolute_value = abs(-9)
